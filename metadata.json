@@ -1,0 +1,6 @@
+{
+  "name": "Music Verse",
+  "description": "Rap Portfolio & Stream Aggregator Web Application for the Hustlers Movement by Shayar (Wajahat Shah).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
