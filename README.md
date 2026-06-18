@@ -1,20 +1,33 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://ai.google.dev/static/site-assets/images/share-ais-513315318.png" />
-</div>
+# Music Verse
 
-# Run and deploy your AI Studio app
+A next-generation digital portfolio and collaboration platform designed for modern musicians, producers, and creators. Build your brand, showcase your tracks, and scale your creative hustle.
 
-This contains everything you need to run your app locally.
+---
 
-View your app in AI Studio: https://ai.studio/apps/2bffe27d-44c8-4e06-a675-326914bf058d
+## 🚀 Features
 
-## Run Locally
+* **Premium Artist Portfolios:** Minimalist, high-performance responsive profiles tailored for musical artists.
+* **Audio Showcase:** Seamless audio streaming and media player integrations optimized for web performance.
+* **Analytics Dashboard:** Track engagement, listens, and profile traffic in real-time.
+* **Startup Ready:** Built with a scalable architecture, strict type-safety, and production-optimized asset delivery.
 
-**Prerequisites:**  Node.js
+## 🛠️ Tech Stack
 
+* **Frontend:** React, TypeScript, Tailwind CSS, Vite
+* **Backend & Tooling:** Node.js, Express, Prisma ORM
+* **Environment & Deployment:** Production-optimized configs for quick scaling.
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+---
+
+## 📦 Getting Started
+
+### Prerequisites
+
+Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
+
+### Installation
+
+1. **Clone the repository:**
+   ```bash
+   git clone [https://github.com/gocode7-code/music-portfolio.git](https://github.com/gocode7-code/music-portfolio.git)
+   cd music-portfolio
